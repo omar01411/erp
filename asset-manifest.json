@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/erp/static/css/main.2f233083.css",
-    "main.js": "/erp/static/js/main.995c06f0.js",
+    "main.js": "/erp/static/js/main.a3bd67e9.js",
     "static/css/927.1aa3f2bc.chunk.css": "/erp/static/css/927.1aa3f2bc.chunk.css",
     "static/js/927.ba124063.chunk.js": "/erp/static/js/927.ba124063.chunk.js",
     "static/js/137.28b4cb42.chunk.js": "/erp/static/js/137.28b4cb42.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/673.e31f3d55.chunk.js": "/erp/static/js/673.e31f3d55.chunk.js",
     "index.html": "/erp/index.html",
     "main.2f233083.css.map": "/erp/static/css/main.2f233083.css.map",
-    "main.995c06f0.js.map": "/erp/static/js/main.995c06f0.js.map",
+    "main.a3bd67e9.js.map": "/erp/static/js/main.a3bd67e9.js.map",
     "927.1aa3f2bc.chunk.css.map": "/erp/static/css/927.1aa3f2bc.chunk.css.map",
     "927.ba124063.chunk.js.map": "/erp/static/js/927.ba124063.chunk.js.map",
     "137.28b4cb42.chunk.js.map": "/erp/static/js/137.28b4cb42.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.2f233083.css",
-    "static/js/main.995c06f0.js"
+    "static/js/main.a3bd67e9.js"
   ]
 }
